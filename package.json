@@ -1,7 +1,7 @@
 {
   "name": "ai-toolkit-directory",
   "version": "1.0.0",
-  "description": "Personal AI toolkit directory - searchable index of AI tools with ratings and capabilities",
+  "description": "Personal AI toolkit directory",
   "private": true,
   "type": "module",
   "dependencies": {
